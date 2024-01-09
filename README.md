@@ -1,16 +1,41 @@
-# med_ease
+# MedEase 360
 
-A new Flutter project.
+MedEase 360 is a Flutter application designed to provide [brief description of your app].
+
+## Features
+
+- **Custom Splash Screen:** Engage users with an appealing splash screen animation.
+- **Transition to Onboarding:** Smooth transition to the onboarding screens.
+- **Animated UI Elements:** Animated text and container elements for a visually appealing experience.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Ensure you have Flutter and Dart installed on your machine. [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+- Clone this repository.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/your-username/MedEase360.git
+```
+## Running the App
+Navigate to the project directory.
+```bash
+cd MedEase360
+```
+Run the app.
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Structure
+lib/: Contains the Dart code for the application.
+main.dart: Entry point of the application.
+onboading_screen_register.dart: Onboarding screen for user registration.
+## Custom Splash Screen
+The app includes a custom splash screen with animations and transitions.
+
+MyCustomSplashScreen: Flutter widget for the splash screen.
+
+
+
